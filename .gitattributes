@@ -1,0 +1,3 @@
+*.pbix binary
+*.png binary
+*.sql text eol=lf
