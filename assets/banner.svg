@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="Superstore Sales Intelligence — SQL and Power BI">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1150"/>
+      <stop offset="1" stop-color="#1F2A7A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="300" rx="18" fill="url(#bg)"/>
+  <!-- decorative bars: yearly sales 2023–2026, to scale -->
+  <g fill="#7FA7FF" opacity="0.25">
+    <rect x="960"  y="127" width="48" height="133" rx="4"/>
+    <rect x="1022" y="133" width="48" height="127" rx="4"/>
+    <rect x="1084" y="95"  width="48" height="165" rx="4"/>
+    <rect x="1146" y="60"  width="48" height="200" rx="4"/>
+  </g>
+  <polyline points="984,127 1046,133 1108,95 1170,60" fill="none" stroke="#A9C4FF" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <g fill="#A9C4FF">
+    <circle cx="984" cy="127" r="4"/><circle cx="1046" cy="133" r="4"/><circle cx="1108" cy="95" r="4"/><circle cx="1170" cy="60" r="5"/>
+  </g>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="64" y="92" fill="#A9C4FF" font-size="20" font-weight="600" letter-spacing="3">SQL  ·  POWER BI  ·  DAX</text>
+    <text x="64" y="150" fill="#FFFFFF" font-size="48" font-weight="700">Superstore Sales Intelligence</text>
+    <text x="64" y="194" fill="#D5E0FF" font-size="21">End-to-end retail analytics: from raw SQL tables to an interactive report</text>
+    <text x="64" y="248" fill="#A9C4FF" font-size="18">2023 – 2026  ·  5,111 orders  ·  804 customers  ·  1,862 products  ·  $2.33M sales</text>
+  </g>
+</svg>
