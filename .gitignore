@@ -1,0 +1,16 @@
+# Source CSV extracts are not stored in this repo (load them with sql/01_load_data.sql)
+*.csv
+data/
+
+# Power BI / Excel temp and lock files
+~$*
+*.tmp
+*.pbix.bak
+.pbi/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
