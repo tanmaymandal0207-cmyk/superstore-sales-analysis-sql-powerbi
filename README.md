@@ -169,6 +169,7 @@ Tables, columns and all 27 DAX measures → [docs/data-model.md](docs/data-model
 ```text
 superstore-sales-analysis-sql-powerbi/
 ├── README.md
+├── CHANGELOG.md                          ← release and maintenance history
 ├── dashboard/
 │   └── Superstore-Intelligence.pbix      ← Power BI report + model
 ├── sql/
@@ -234,6 +235,18 @@ superstore-sales-analysis-sql-powerbi/
 - [ ] Turn off auto date/time and drive every visual from the `Date` table
 
 Details and the exact fixes → [docs/model-review.md](docs/model-review.md)
+
+---
+
+## 📝 Changelog
+
+Release notes are in [CHANGELOG.md](CHANGELOG.md) (current release: v2.0, 6 Oct 2026).
+
+## 🔗 Related Projects
+
+- [Commercial Intelligence Dashboard](https://github.com/tanmaymandal0207-cmyk/Commercial-Intelligence-Dashboard): Power BI revenue, pricing and lifecycle analysis on real distributor data
+- [SQL Business Problems](https://github.com/tanmaymandal0207-cmyk/sql-business-problems): problem → SQL → validation case studies
+- [Zomato Bangalore Analysis](https://github.com/tanmaymandal0207-cmyk/zomato-bangalore-sql-analysis): BigQuery profiling and restaurant-grain reconciliation
 
 ---
 

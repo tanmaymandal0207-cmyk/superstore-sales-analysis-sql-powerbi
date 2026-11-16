@@ -21,6 +21,7 @@ Professional restructure: SQL rebuilt as a numbered pipeline and the Power BI re
 
 - 17 Oct 2026: `.gitignore` for CSV extracts, Power BI / Excel temp and OS files.
 - 15 Nov 2026: added this changelog.
+- 16 Nov 2026: README links the changelog and related projects; repository tree lists `CHANGELOG.md`.
 
 ## v1.0 — 28 Apr 2026
 
