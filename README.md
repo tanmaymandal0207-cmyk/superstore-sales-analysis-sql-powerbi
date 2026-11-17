@@ -170,6 +170,8 @@ Tables, columns and all 27 DAX measures → [docs/data-model.md](docs/data-model
 superstore-sales-analysis-sql-powerbi/
 ├── README.md
 ├── CHANGELOG.md                          ← release and maintenance history
+├── data/
+│   └── README.md                         ← where the CSVs come from and how to load them
 ├── dashboard/
 │   └── Superstore-Intelligence.pbix      ← Power BI report + model
 ├── sql/
@@ -203,7 +205,7 @@ superstore-sales-analysis-sql-powerbi/
 **SQL (MySQL 8.0)**
 
 1. Run [`00_create_schema.sql`](sql/00_create_schema.sql).
-2. Load the CSVs with [`01_load_data.sql`](sql/01_load_data.sql) (replace `<path>`), or use MySQL Workbench's *Table Data Import Wizard*.
+2. Get the three CSV files ([data/README.md](data/README.md)) and load them with [`01_load_data.sql`](sql/01_load_data.sql) (replace `<path>`), or use MySQL Workbench's *Table Data Import Wizard*.
 3. Run `02` → `03` once, then any analysis script `04`–`08` in any order.
 
 **Power BI**
