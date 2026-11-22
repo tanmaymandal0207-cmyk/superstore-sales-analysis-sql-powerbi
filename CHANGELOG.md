@@ -1,5 +1,12 @@
 # Changelog
 
+## Unreleased
+
+### Docs
+
+- README: LinkedIn link in the Author section (21 Nov 2026).
+- README: Roadmap and Related Projects added to the section navigation (22 Nov 2026).
+
 ## v2.0 — 6 Oct 2026
 
 Professional restructure: SQL rebuilt as a numbered pipeline and the Power BI report documented.
