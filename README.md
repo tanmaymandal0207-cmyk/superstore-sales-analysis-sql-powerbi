@@ -252,6 +252,8 @@ Release notes are in [CHANGELOG.md](CHANGELOG.md) (current release: v2.0, 6 Oct 
 - [SQL Business Problems](https://github.com/tanmaymandal0207-cmyk/sql-business-problems): problem → SQL → validation case studies
 - [Zomato Bangalore Analysis](https://github.com/tanmaymandal0207-cmyk/zomato-bangalore-sql-analysis): BigQuery profiling and restaurant-grain reconciliation
 
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
 ---
 
 ## 👤 Author
